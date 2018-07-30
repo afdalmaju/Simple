@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMT MAIN SITE-SIMPLE-3",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -581,7 +581,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/c4-588734aa6a22dheader.png-130x1286.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -650,7 +650,7 @@
           },
           "title1": "PERODUA VIVA",
           "caption1": "<p>Perday Price:</p><p>Automatic Transmission RM100</p>Manual Transmission RM90<br><br>Maximum Passenger: 5",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Viva%20(AUTO/MANUAL).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "media2": {
             "image": {
               "active": true,
@@ -673,7 +673,7 @@
           },
           "title2": "PERODUA MYVI",
           "caption2": "Automatic Transmission RM120<br>Maximum Passenger: 5<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Myvi%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media3": {
             "image": {
               "active": true,
@@ -696,7 +696,7 @@
           },
           "title3": "PERODUA BEZZA",
           "caption3": "Automatic Transmission RM140<br>Maximum Passenger: 5<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Bezza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media4": {
             "image": {
               "active": true,
@@ -719,7 +719,7 @@
           },
           "title4": "PERODUA ALZA",
           "caption4": "Automatic Transmission RM180<br>Maximum Passenger: 7<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://api.whatsapp.com/send?phone=60148630141&amp;text=Saya%20ingin%20menempah%20Perodua%20Alza%20(AUTO).\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media5": {
             "image": {
               "active": true,
